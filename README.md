@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Jaqueline 👋
 
-<!--
-**jaquelinerigo/Jaquelinerigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de Dados com foco em Power BI, análise de dados e storytelling visual.
 
-Here are some ideas to get you started:
+📊 Desenvolvendo projetos analíticos voltados para visualização estratégica, dashboards interativos e análise de desempenho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Ferramentas e habilidades:
+- Power BI
+- Power Query
+- DAX
+- Excel
+- Figma
+- Storytelling com Dados
+- Visualização Analítica
+- Modelagem de Dados
+
+📁 Projetos em destaque:
+- Dashboard Campeonato Brasileiro
+- Projetos Analíticos em Desenvolvimento
+
+💡 Atualmente aprimorando:
+- Design de dashboards
+- Experiência visual em BI
+- Narrativa analítica
+- Estruturação de portfólio no GitHub
