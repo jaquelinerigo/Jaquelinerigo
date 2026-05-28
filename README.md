@@ -29,8 +29,3 @@
 - Experiência visual em BI
 - Narrativa analítica
 - Estruturação de portfólio no GitHub
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Jaquelinerigo&show_icons=true&theme=transparent)
