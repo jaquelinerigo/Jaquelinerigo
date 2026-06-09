@@ -21,6 +21,8 @@
 - Modelagem de Dados
 
 📁 Projetos em destaque:
+- Dashboard Comercial e Financeiro - DataToys
+- Dashboard Impacto da IA no Mercado Global
 - Dashboard Campeonato Brasileiro
 - Projetos Analíticos em Desenvolvimento
 
